@@ -1,0 +1,11 @@
+hair
+0 = red, 1 = blonde, 2 = brown
+
+height
+0 = short, 1 = average, 2 = tall
+
+weight
+0 = light, 1 = average, 2 = heavy
+
+lotion
+0 = no, 1 = yes
